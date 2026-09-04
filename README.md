@@ -8,7 +8,7 @@ Project Portofolio: "Aplikasi WEB Kedai Foto Kopi" yaitu Landing Page & Katalog 
  * Deskripsi Singkat: Website profil dan katalog interaktif untuk membantu kedai kopi lokal memperluas jangkauan pemasaran mereka secara digital.
    
  Masalah (The Problem)
- * Kondisi Awal: UMKM "KopiLokal" sebelumnya hanya mengandalkan media sosial biasa untuk berjualan.
+ * Kondisi Awal: UMKM "Kedai Foto Kopi" sebelumnya hanya mengandalkan media sosial biasa untuk berjualan.
  * Kendala Utama: * Pelanggan kesulitan melihat daftar menu lengkap beserta harga terbarunya secara rapi.
    * Tidak ada fitur order-to-WhatsApp yang otomatis, sehingga proses pemesanan manual memakan waktu lama dan sering terjadi salah catat pesanan.
    * Tampilan informasi jam operasional dan lokasi sering terlewat oleh pelanggan baru.
