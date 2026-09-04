@@ -1,3 +1,5 @@
+Link Deploy aplikasi : https://aplikasiwebkedaikopifotokopi.netlify.app/
+
 Halo! Kenalin, Aku Vilan Arifianto, Front-End Developer Pemula
 Sebagai seorang front-end developer yang baru memulai perjalanan di dunia coding, aku ingin membagikan salah satu project portofolio pertamaku.
 Di sini aku menerapkan struktur Masalah -> Solusi -> Hasil untuk menunjukkan bagaimana aku memecahkan masalah nyata melalui kode.
