@@ -1,0 +1,42 @@
+.about-section { position: relative; overflow: hidden; background: #2c1810; color: #fffaf0; padding-block: 6.5rem; }
+.about-section::after { position: absolute; right: -8rem; bottom: -9rem; width: 26rem; height: 26rem; border: 1px solid rgba(255,250,240,0.12); border-radius: 50%; content: ''; }
+.about-grid { position: relative; z-index: 2; display: grid; gap: 4rem; }
+.section-kicker--light { color: #d8ad49; }
+.about-story h2 { margin-top: 1rem; font-size: clamp(2.8rem, 6vw, 5rem); font-weight: 400; line-height: 1.03; letter-spacing: -0.05em; }
+.about-story p { max-width: 38rem; margin-top: 1.75rem; color: #d5c5b4; line-height: 1.9; }
+.values-grid { display: grid; gap: 0.8rem; }
+.value-card { position: relative; min-height: 12rem; border: 1px solid rgba(255,250,240,0.14); border-radius: 1rem; background: #3a241a; padding: 1.3rem; }
+.value-card > span { position: absolute; top: 1rem; right: 1rem; color: #a98873; font: 0.65rem ui-monospace, monospace; }
+.value-card > svg { width: 1.6rem; height: 1.6rem; color: #d8ad49; stroke-width: 1.5; }
+.value-card h3 { margin-top: 2rem; font-size: 1rem; }
+.value-card p { margin-top: 0.55rem; color: #bda99a; font-size: 0.76rem; line-height: 1.7; }
+.location-section { background: #ead9b7; padding-block: 6.5rem; }
+.location-grid { display: grid; align-items: center; gap: 4rem; }
+.location-copy > p { max-width: 35rem; margin-top: 1.5rem; color: #695448; line-height: 1.85; }
+.location-details { display: grid; gap: 1.1rem; margin-top: 2rem; }
+.location-details > div { display: flex; align-items: center; gap: 0.9rem; }
+.location-details > div > svg { width: 1.3rem; color: #9a573d; }
+.location-details small, .location-details strong { display: block; }
+.location-details small { color: #816c5e; font-size: 0.64rem; font-weight: 800; letter-spacing: 0.1em; text-transform: uppercase; }
+.location-details strong { margin-top: 0.18rem; font-size: 0.9rem; }
+.map-card { position: relative; min-height: 28rem; overflow: hidden; border: 0.7rem solid #fffaf0; border-radius: 1.6rem; background: #d8c8a8; box-shadow: 0 30px 60px rgba(44,24,16,0.15); }
+.map-grid-lines { position: absolute; inset: 0; background-image: linear-gradient(rgba(78,69,49,0.11) 1px, transparent 1px), linear-gradient(90deg, rgba(78,69,49,0.11) 1px, transparent 1px); background-size: 38px 38px; transform: rotate(8deg) scale(1.25); }
+.map-road { position: absolute; background: #f7f0da; box-shadow: 0 0 0 1px rgba(80,62,48,0.12); }
+.map-road--one { top: 47%; left: -10%; width: 120%; height: 4rem; transform: rotate(-12deg); }
+.map-road--two { top: -10%; left: 55%; width: 3.4rem; height: 120%; transform: rotate(18deg); }
+.map-pin-card { position: absolute; top: 50%; left: 50%; display: flex; align-items: center; gap: 0.8rem; width: max-content; border: 1px solid #d7c49f; border-radius: 1rem; background: #fffaf0; padding: 0.85rem 1rem; box-shadow: 0 16px 35px rgba(44,24,16,0.22); transform: translate(-50%, -50%); }
+.map-pin-card > span { display: grid; width: 2.5rem; height: 2.5rem; place-items: center; border-radius: 0.75rem; background: #b86a4a; color: #fffaf0; }
+.map-pin-card svg { width: 1.1rem; }
+.map-pin-card strong, .map-pin-card small { display: block; }
+.map-pin-card strong { font-size: 0.88rem; }
+.map-pin-card small { margin-top: 0.2rem; color: #766156; font-size: 0.65rem; }
+.map-note { position: absolute; right: 1rem; bottom: 1rem; border-radius: 99px; background: #2c1810; color: #fffaf0; padding: 0.55rem 0.8rem; font: 0.58rem ui-monospace, monospace; letter-spacing: 0.12em; }
+.contact-section { background: #f7f0da; padding-block: 5.5rem; }
+.contact-card { display: grid; gap: 2rem; overflow: hidden; border-radius: 1.5rem; background: #3a241a; color: #fffaf0; padding: 2rem; box-shadow: 0 28px 60px rgba(44,24,16,0.16); }
+.contact-card h2 { max-width: 45rem; margin-top: 0.8rem; font-size: clamp(2.4rem, 5.5vw, 4.2rem); font-weight: 400; line-height: 1.04; letter-spacing: -0.045em; }
+.contact-card p { max-width: 40rem; margin-top: 1rem; color: #d0c0b2; line-height: 1.8; }
+.contact-actions { display: flex; flex-wrap: wrap; gap: 0.8rem; align-self: end; }
+.site-footer { border-top: 1px solid #dbc9a9; background: #ead9b7; padding-block: 2.5rem; }
+.footer-grid { display: grid; align-items: center; gap: 1rem; color: #756054; font-size: 0.72rem; }
+.brand-mark--footer { font-size: 1.2rem; }
+.brand-mark--footer .brand-bean { width: 1.7rem; height: 1.7rem; }
