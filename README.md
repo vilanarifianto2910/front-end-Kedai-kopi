@@ -1,5 +1,4 @@
-Link Deploy aplikasi : 
-https://aplikasiwebkedaikopifotokopi.netlify.app
+Link Deploy aplikasi : https://aplikasiwebkedaikopifotokopi.netlify.app
 Halo! Kenalin, Aku Vilan Arifianto, Front-End Developer Pemula
 Sebagai seorang front-end developer yang baru memulai perjalanan di dunia coding, aku ingin membagikan salah satu project portofolio pertamaku.
 Di sini aku menerapkan struktur Masalah -> Solusi -> Hasil untuk menunjukkan bagaimana aku memecahkan masalah nyata melalui kode.
@@ -22,7 +21,7 @@ Project Portofolio: "Aplikasi WEB Kedai Foto Kopi" yaitu Landing Page & Katalog 
    
  Hasil & Dampak (The Result)
  * Peningkatan Efisiensi: Proses pemesanan pelanggan menjadi lebih cepat dan terstruktur karena format pesan otomatis mengurangi kesalahan komunikasi.
- * Pengalaman Belajar Bagiku: * Berhasil menguasai dasar-dasar Responsive Web Design dan mengatasi masalah layout yang pecah di layar kecil.
+ * Pengalaman Belajar Bagiku: Berhasil menguasai dasar-dasar Responsive Web Design dan mengatasi masalah layout yang pecah di layar kecil.
  * Memahami cara mengintegrasikan interaksi JavaScript sederhana dengan elemen HTML secara dinamis.
  * Peningkatan Portofolio: Website ini kini menjadi salah satu project andalan di GitHub-ku yang membuktikan kemampuanku mengubah wireframe desain menjadi kode fungsional.
    
